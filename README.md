@@ -1,4 +1,10 @@
-WindowBuilder
-=============
 
-Fontes para cria√ß√£o de aplica√ß√µes Swing com o plugin WindowBuilder no ECLIPSE
+
+
+MODIFICA«√O FEITA NO ARQUIVO README.md  FEITA PELO ECLIPSE COM O PLUGIN EGIT. 
+
+AUTOR DA MODIFICA«√O:   PROF. DR. APARECIDO V. DE FREITAS
+
+DATA:  2/10/2014
+
+HORA:   16H30
